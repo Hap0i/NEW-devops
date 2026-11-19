@@ -1,4 +1,4 @@
-S---
+---
 - name: Install nginx with Virtual Hosts
   hosts: webservers
   remote_user: runner
